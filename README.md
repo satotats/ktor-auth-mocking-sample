@@ -84,6 +84,6 @@ https://github.com/satotats/ktor-auth-mocking-sample/blob/master/app/src/test/ko
         }
     }
 ```
-https://github.com/satotats/ktor-auth-mocking-sample/blob/master/app/src/test/kotlin/com/satotats/ktor/AppTest.kt#L11  
+refs: https://github.com/satotats/ktor-auth-mocking-sample/blob/master/app/src/test/kotlin/com/satotats/ktor/AppTest.kt#L11  
 Heigh-ho!! Now you can use mocked login, without writing any if-conditions in codes for production!  
 Enjoy your clean codes!
